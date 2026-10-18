@@ -1,3 +1,5 @@
+> **Fork based on audited v1.7.2:** Start with [FORK_RISKS.md](FORK_RISKS.md). This public source repository must not contain your CV or personal profiles. The default `audited-v1.7.2` branch starts from upstream commit `d7287ec83493102f253282fab07bd88412e7dd50`; its initial fork changes are documentation only. Keep the optional Danish portals disabled until their dependency risks are addressed.
+
 <p align="center">
   <img src="assets/mascot/pip_flight_loop.gif" alt="Pip, the courier bird" width="200">
 </p>
